@@ -1,0 +1,12 @@
+:root {
+  --bg: #fff8ed;
+  --surface: #ffffff;
+  --text: #4a2b18;
+  --muted: #7a5a47;
+  --accent: #ea580c;
+  --accent-2: #eab308;
+  --hero-1: #fb7185;
+  --hero-2: #f59e0b;
+  --card-border: rgba(245, 158, 11, 0.18);
+  --shadow: rgba(120, 53, 15, 0.16);
+}
